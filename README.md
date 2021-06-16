@@ -1,7 +1,7 @@
 ### Hi there 👋, Juwon Kim
 #### Developer
 
-Skills: JAVA / KOTLIN / SWIFT 
+Skills: JAVA / KOTLIN / SWIFT / ANDROID / IOS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning IOS / ANDROID 
