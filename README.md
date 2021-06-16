@@ -1,9 +1,8 @@
-### Hi there 👋, Juwon Kim
-#### Developer
 ![Developer](https://github.com/goldrootstock/goldrootstock/blob/main/Things%20are%20bad%20before%20they're%20good..png)
 
+# Hi there 👋, I'm Juwon Kim
 
-Skills: JAVA / KOTLIN / SWIFT 
+## Skills: JAVA / KOTLIN / SWIFT 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning IOS / ANDROID 
