@@ -1,12 +1,16 @@
 ### Hi there 👋, Juwon Kim
-#### Development
-![Development](https://www.canva.com/design/DAEhiar40Jc/share/preview?token=WNDeFo4v6YGXbNA_VFUfFA&role=EDITOR&utm_content=DAEhiar40Jc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+#### Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: JAVA / KOTLIN / SWIFT / ANDROID / IOS
+Skills: JAVA / KOTLIN / SWIFT 
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning IOS / ANDROID 
+- 📫 How to reach me: goldrootstock@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/goldrootstock)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/juwonkim90/)  
+
+
 
 
 
