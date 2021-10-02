@@ -2,10 +2,9 @@
 
 # Hi there 👋, I'm Juwon Kim
 
-## Skills: JAVA / KOTLIN / SWIFT 
+## Skills: 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning IOS / ANDROID 
 - 📫 How to reach me: goldrootstock@gmail.com 
 
 
